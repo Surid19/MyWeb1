@@ -126,3 +126,23 @@ main{
 #what-i-do{
     padding: 30px 150px;
 }
+
+/* Skills related styles */
+
+.skills-container{
+      display: flex;
+      gap: 20px;
+}
+.skill{
+    padding: 50px 33px 30px 33px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+/* resume */
+
+.resume-container{
+    display: flex;
+    justify-content: space-around;
+}
